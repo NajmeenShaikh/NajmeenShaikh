@@ -1,160 +1,184 @@
-# Hi, I'm Najmeen 👋
+# Hi, I'm Najmeen Shaikh 👋
 
-### React UI Frontend Developer | React.js • TypeScript • JavaScript
+### React UI Frontend Developer | React.js • TypeScript • JavaScript • REST APIs
 
-I build **responsive, accessible, maintainable, and user-focused web applications** using modern frontend technologies.
+I build **responsive, accessible, maintainable frontend applications** with a strong focus on **React, TypeScript, JavaScript, reusable component architecture, API integration, and reliable user experiences**.
 
-My focus is on building production-quality interfaces with **React, TypeScript, JavaScript, REST APIs, reusable components, responsive design, and clean frontend architecture**.
+My portfolio focuses on practical **BFSI / FinTech / Banking** use cases such as fund transfers, financial calculations, dashboards, transactions, and loan workflows.
 
-I am particularly interested in **BFSI, FinTech, banking, and enterprise applications**, where reliability, usability, security awareness, and maintainable code are important.
+[![GitHub](https://img.shields.io/badge/GitHub-NajmeenShaikh-181717?logo=github)](https://github.com/NajmeenShaikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Najmeen%20Shaikh-0A66C2?logo=linkedin)](https://www.linkedin.com/in/shaikhnazmeen36)
 
 ---
 
 ## 👩‍💻 About Me
 
-* 💻 React UI Frontend Developer
-* ⚛️ Building applications with React.js
-* 🔷 Working with TypeScript and modern JavaScript
-* 🔗 Integrating REST APIs
-* 🎨 Building responsive and reusable UI components
-* ♿ Focused on accessibility and user experience
-* 🧪 Interested in testing and reliable frontend development
-* 🏦 Interested in BFSI / FinTech / Banking applications
-* 🚀 Continuously improving frontend architecture and performance
-* 🤖 Exploring how AI tools can improve modern software development
+- ⚛️ React UI Frontend Developer focused on modern React applications
+- 🔷 Building type-safe solutions with TypeScript and modern JavaScript (ES6+)
+- 🔗 Integrating REST APIs with robust loading, success, empty, and error states
+- 🧩 Designing reusable components and maintainable frontend architecture
+- ♿ Building responsive and accessibility-conscious user interfaces
+- 🧪 Improving frontend quality through testing, linting, and reliable development practices
+- 🏦 Applying frontend engineering to BFSI, FinTech, banking, payments, loans, and enterprise workflows
+- ⚡ Focused on performance, clean code, maintainability, and user experience
+- 🤖 Using AI-assisted development thoughtfully while maintaining code quality and engineering ownership
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technology Stack
 
 ### Frontend
 
-* React.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Responsive Web Design
-
-### APIs & Data
-
-* REST APIs
-* Fetch API
-* Async/Await
-* JSON
-* API Error Handling
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
 
 ### Frontend Engineering
 
-* Component Architecture
-* Reusable Components
-* State Management
-* Form Handling
-* Client-side Validation
-* Error Handling
-* Performance Optimization
-* Accessibility
-* Clean Code
+- Component architecture and reusable UI patterns
+- React Hooks and state management
+- Forms, controlled inputs, and client-side validation
+- REST API integration and asynchronous workflows
+- Error, loading, empty, and success-state handling
+- Responsive web development
+- Accessibility and semantic HTML
+- Performance optimization
+- Clean code and maintainable architecture
+- Frontend testing
 
-### Tools
+### Tools & Development
 
-* Git
-* GitHub
-* VS Code
-* npm
-* Chrome DevTools
+- Git & GitHub
+- npm
+- Vite
+- ESLint
+- VS Code
+- Chrome DevTools
+
+---
+
+## 🏦 BFSI / FinTech Focus
+
+I enjoy building frontend experiences for financial workflows where **accuracy, reliability, usability, accessibility, and maintainability** matter.
+
+Examples include:
+
+- 💸 Fund transfers and payment workflows
+- 💳 Account and transaction experiences
+- 📊 Banking dashboards and financial analytics
+- 🏦 Customer and account management
+- 💰 Loan and EMI workflows
+- 🔐 Authentication and authorization-aware UI
+- 🧾 Transaction status, validation, and error handling
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 TypeScript Banking 2026
+### 💸 React Fund Transfer Application
 
-A TypeScript-focused banking domain project demonstrating strong typing, interfaces, unions, business models, and practical banking-related frontend concepts.
+A banking-focused React application demonstrating a realistic fund-transfer workflow, controlled forms, validation, reusable components, transaction handling, responsive UI, and state-driven user experiences.
 
-🔗 [View Repository](https://github.com/NajmeenShaikh/TYPESCRIPT-BANKING-2026)
+**Focus:** React • JavaScript/TypeScript migration • Forms • Validation • Banking UX • REST API architecture
 
----
-
-### 💸 React Fund Transfer App
-
-A React-based fund transfer application demonstrating form handling, validation, transaction workflows, reusable UI components, and frontend application structure.
-
-🔗 [View Repository](https://github.com/NajmeenShaikh/react-fund-transfer-app)
+➡️ [View Repository](https://github.com/NajmeenShaikh/react-fund-transfer-app)
 
 ---
 
-### 🧮 EMI Calculator React
+### 📊 React Banking Dashboard
 
-A React application for calculating EMI and presenting financial calculations through an interactive user interface.
+A portfolio project focused on an enterprise-style banking dashboard with account information, transactions, financial insights, reusable UI components, and API-driven frontend architecture.
 
-🔗 [View Repository](https://github.com/NajmeenShaikh/emi-calculator-react)
+**Focus:** React • TypeScript • REST APIs • Dashboard UI • Data visualization • Reusable components
+
+➡️ [View Repository](https://github.com/NajmeenShaikh/react-bank-dashboard)
 
 ---
 
-## 🎯 Current Focus
+### 🔷 TypeScript Banking 2026
+
+A TypeScript banking-domain project demonstrating type-safe business models and practical TypeScript concepts applied to customers, accounts, transactions, payments, loans, and EMI workflows.
+
+**Focus:** TypeScript • Interfaces • Unions • Generics • Utility Types • Type Guards • Domain Modeling
+
+➡️ [View Repository](https://github.com/NajmeenShaikh/TYPESCRIPT-BANKING-2026)
+
+---
+
+### 🧮 EMI Calculator — React Financial Application
+
+A React-based financial calculator demonstrating controlled inputs, financial calculations, validation, responsive UI, and user-friendly presentation of EMI, total interest, and total payable amount.
+
+**Focus:** React • Financial Logic • Form Validation • Responsive UI • UX
+
+➡️ [View Repository](https://github.com/NajmeenShaikh/emi-calculator-react)
+
+---
+
+## 🧠 Engineering Principles
 
 ```text
-React.js
+User Need
    ↓
-TypeScript
+Clear Requirements & Assumptions
    ↓
-REST APIs
+Reusable Component Design
    ↓
-Reusable Components
+Type-Safe Models
+   ↓
+API / State Architecture
+   ↓
+Validation & Error Handling
+   ↓
+Accessibility & Responsive UX
    ↓
 Testing
    ↓
 Performance
    ↓
-Accessibility
-   ↓
-Frontend System Design
-   ↓
-BFSI / FinTech Applications
+CI / Build Quality
 ```
 
----
-
-## 📚 Currently Improving
-
-* Advanced TypeScript
-* React + TypeScript architecture
-* API integration patterns
-* Frontend testing
-* Performance optimization
-* Accessibility
-* Frontend system design
-* Clean code and maintainable architecture
-* AI-assisted development workflows
+I aim to make frontend code **easy to understand, safe to change, and reliable for real users**.
 
 ---
 
-## 🏦 Domain Interest
+## 📚 Currently Strengthening
 
-I am interested in building reliable frontend applications for:
-
-* Banking
-* BFSI
-* FinTech
-* Insurance
-* Financial dashboards
-* Payment workflows
-* Fund transfers
-* Loan and EMI workflows
-* Customer-facing enterprise applications
+- Advanced TypeScript and type-safe React patterns
+- React application architecture
+- REST API and asynchronous data patterns
+- Frontend testing and quality practices
+- Accessibility and responsive design
+- Performance optimization
+- Frontend system design
+- BFSI / FinTech application patterns
+- AI-assisted development workflows with engineering review
 
 ---
 
-## 📫 Connect With Me
+## 🎯 What I Bring to a Frontend Team
 
-* 💼 GitHub: [NajmeenShaikh](https://github.com/NajmeenShaikh)
-* 💼 LinkedIn: www.linkedin.com/in/shaikhnazmeen36 
+- Strong React UI development mindset
+- Practical TypeScript and JavaScript knowledge
+- Focus on reusable and maintainable components
+- Business-domain-oriented frontend thinking
+- Attention to validation, error handling, accessibility, and UX
+- Ability to explain technical decisions and trade-offs clearly
+- Continuous improvement through modern frontend engineering practices
 
 ---
 
-## ⭐ Thank You for Visiting
+## 📫 Let's Connect
 
-Thanks for visiting my GitHub profile.
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaikhnazmeen36)
+- 🐙 [GitHub](https://github.com/NajmeenShaikh)
 
-Feel free to explore my repositories and projects.
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you're interested in React frontend development, TypeScript, or BFSI/FinTech applications, feel free to explore my projects.
